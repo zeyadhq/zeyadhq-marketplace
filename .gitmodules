@@ -1,0 +1,6 @@
+[submodule "plugins/uxui-methods-library"]
+	path = plugins/uxui-methods-library
+	url = git@github.com:zeyadhq/uxui-methods-library.git
+[submodule "plugins/job-application-assistant"]
+	path = plugins/job-application-assistant
+	url = git@github.com:zeyadhq/job-application-assistant.git

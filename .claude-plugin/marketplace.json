@@ -1,0 +1,36 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "zeyadhq",
+  "owner": {
+    "name": "Zeyad Ramadan",
+    "email": "hello@zeyadhq.com"
+  },
+  "plugins": [
+    {
+      "name": "uxui-methods-library",
+      "source": "./plugins/uxui-methods-library",
+      "description": "Complete UX/UI design methodology with playbooks, templates, and component library",
+      "version": "1.0.0",
+      "author": {
+        "name": "Zeyad Ramadan",
+        "email": "hello@zeyadhq.com"
+      },
+      "license": "MIT",
+      "keywords": ["uxui", "design", "methods", "workflows", "design-system", "playbooks", "templates", "user-research"],
+      "category": "design"
+    },
+    {
+      "name": "job-application-assistant",
+      "source": "./plugins/job-application-assistant",
+      "description": "Complete job application toolkit with decision frameworks for resume optimization, cover letters, interview prep, and career strategy",
+      "version": "1.0.0",
+      "author": {
+        "name": "Zeyad Ramadan",
+        "email": "hello@zeyadhq.com"
+      },
+      "license": "MIT",
+      "keywords": ["job-search", "resume", "interview-prep", "cover-letter", "application-strategy", "career-transition", "job-research", "networking"],
+      "category": "career"
+    }
+  ]
+}
